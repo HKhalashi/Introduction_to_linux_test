@@ -1,0 +1,7 @@
+#bin/bash
+group1:user1
+group2:user2
+group3:user3
+group1:user4
+group1:user5
+group2:user6
